@@ -37,7 +37,7 @@ The forecast shows an increase in volatility, however, even this model suffers f
 - AIC: 14931.9
 - BIC: 14959.6
 
-[Heteroskedasticity](https://www.investopedia.com/terms/h/heteroskedasticity.asp)
+Define - [Heteroskedasticity](https://www.investopedia.com/terms/h/heteroskedasticity.asp)
 
 ## Regression Analysis
 Finally, a linear regression is performed on the Yen futures by creating a lag of one trading day, and adding that to the data.  The analysis shows that the linear regression holds to some of the variability of the data, however the scale of changes is compressed dramatically.
